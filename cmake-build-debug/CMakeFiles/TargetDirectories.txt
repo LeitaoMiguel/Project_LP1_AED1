@@ -1,0 +1,3 @@
+C:/Users/migue/Desktop/ProjetoAEDeLP/cmake-build-debug/CMakeFiles/ProjetoAEDeLP.dir
+C:/Users/migue/Desktop/ProjetoAEDeLP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/migue/Desktop/ProjetoAEDeLP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

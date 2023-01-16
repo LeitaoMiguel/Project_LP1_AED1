@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/migue/Desktop/ProjetoAEDeLP/Numeros_inteiros/Inteiros.h
+
+C:/Users/migue/Desktop/ProjetoAEDeLP/Numeros_inteiros/Parte1.h
+
+C:/Users/migue/Desktop/ProjetoAEDeLP/main.c
+Numeros_inteiros/Inteiros.h
+C:/Users/migue/Desktop/ProjetoAEDeLP/Numeros_inteiros/Inteiros.h
+Numeros_inteiros/Parte1.h
+C:/Users/migue/Desktop/ProjetoAEDeLP/Numeros_inteiros/Parte1.h
+stdlib.h
+-
+stdio.h
+-
+time.h
+-
+
